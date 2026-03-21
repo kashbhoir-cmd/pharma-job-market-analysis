@@ -181,7 +181,7 @@ across European market.
 ### Option 2 — Local environment
 ```bash
 # Clone the repository
-git clone https://github.com/[your-username]/pharma-job-market-analysis.git
+git clone https://github.com/kashbhoir-cmd/pharma-job-market-analysis.git
 cd pharma-job-market-analysis
 
 # Install dependencies
